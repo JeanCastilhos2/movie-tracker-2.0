@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10%;
+  width: 100%;
+  align-items: center;
+  background-color: #141414;
+  opacity: 95%;
+  z-index: 100;
+  position: fixed;
+}
+.navbar :link {
+  z-index: 99999;
+  position: relative;
+  display: flex;
+  text-decoration: none;
+  width: 40vh;
+  height: 80%;
+  margin-left: 48%;
+}

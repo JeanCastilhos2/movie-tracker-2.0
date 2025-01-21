@@ -16,20 +16,9 @@ Movie Tracker é um aplicativo web desenvolvido com **React** e **TypeScript** q
 - **Listagem de filmes populares**: Exiba filmes populares na página inicial.
 - **Interface responsiva**: Design que se adapta a diferentes tamanhos de tela.
 
+## Estrutura do Projeto
 
-movie-tracker/
-├── public/
-│   └── index.html           # Arquivo HTML principal
-├── src/
-│   ├── assets/              # Arquivos estáticos (imagens, ícones, etc.)
-│   ├── components/          # Componentes reutilizáveis
-│   ├── pages/               # Páginas do aplicativo
-│   ├── services/            # Serviços (requisições API)
-│   ├── App.tsx              # Componente principal
-│   └── index.tsx            # Ponto de entrada da aplicação
-├── .env                     # Arquivo de variáveis de ambiente
-├── package.json             # Gerenciador de dependências
-└── tsconfig.json            # Configuração do TypeScript
+
 
 
 # Licença
